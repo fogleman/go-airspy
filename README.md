@@ -6,8 +6,10 @@ This is a simple Go wrapper for the [libairspy](https://github.com/airspy/airspy
 
 ### Installation
 
-    $ brew install airspy
-    $ go get -u github.com/fogleman/go-airspy/airspy
+```sh
+$ brew install airspy # homebrew on mac, else install libairspy as appropriate for your OS
+$ go get -u github.com/fogleman/go-airspy/airspy
+```
 
 ### Documentation
 
